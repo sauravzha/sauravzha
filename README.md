@@ -37,7 +37,7 @@
   <table>
     <tr>
       <td width="50%" valign="top"><a href="https://github.com/sauravzha/Atithidevobhava"><img src="https://raw.githubusercontent.com/sauravzha/sauravzha/main/assets/project-atithi.svg" width="100%" alt="Atithi Devo Bhava — cultural technology platform"/></a></td>
-      <td width="50%" valign="top"><a href="https://github.com/sauravzha/CelestialWatch"><img src="https://raw.githubusercontent.com/sauravzha/sauravzha/main/assets/project-perihelion.svg?v=2" width="100%" alt="Perihelion — space data and orbital visualization"/></a></td>
+      <td width="50%" valign="top"><a href="https://github.com/sauravzha/CelestialWatch"><img src="./assets/perihelion-card.svg" width="100%" alt="Perihelion — space data and orbital visualization"/></a></td>
     </tr>
     <tr>
       <td width="50%" valign="top"><a href="https://github.com/sauravzha/AI-Virtual-Mouse"><img src="https://raw.githubusercontent.com/sauravzha/sauravzha/main/assets/project-virtual-mouse.svg" width="100%" alt="AI Virtual Mouse — gesture-based computer interaction"/></a></td>
