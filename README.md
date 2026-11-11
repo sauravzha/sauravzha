@@ -1,115 +1,84 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sauravzha/sauravzha/main/assets/engineer-header.svg" alt="Saurav Jha — Software Engineering" width="100%" />
+  <img src="https://raw.githubusercontent.com/sauravzha/sauravzha/main/assets/engineer-header.svg" alt="Saurav Jha — software engineering, full-stack and applied AI" width="100%" />
+  <br/>
+  <a href="https://myportfolio-1-sigma.vercel.app/">PORTFOLIO</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/saurav-jha-555b8a211/">LINKEDIN</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/sauravzha?tab=repositories">ALL REPOSITORIES</a>
 </div>
 
-<div align="center">
-  <a href="https://myportfolio-1-sigma.vercel.app/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/saurav-jha-555b8a211/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/sauravzha?tab=repositories">Repositories</a>
-</div>
-
----
-
-## About
-
-I build software that connects thoughtful product experiences with practical engineering. My work spans **full-stack development, applied AI/ML, computer vision, and data-driven applications**.
-
-I enjoy taking a problem from idea to working product: understanding the use case, designing the flow, building the system, and improving it through testing and feedback.
-
-- **Focus:** Full-stack applications, AI-powered tools, computer vision, and useful automation.
-- **Approach:** Build clearly, measure honestly, document the trade-offs, and keep improving.
-- **Currently building:** Atithi Devo Bhava — a cultural hospitality platform connecting travellers with local communities in India.
-
-## Selected work
+<br/>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sauravzha/Atithidevobhava">01 / Atithi Devo Bhava</a></h3>
-      <p>A cultural hospitality platform designed to help travellers connect with local hosts, families, artisans, and community-led experiences.</p>
-      <sub>Next.js · React · TypeScript · Supabase</sub>
+    <td width="62%" valign="top">
+      <h2>01 / Profile</h2>
+      <h3>Software developer building across product, systems and applied intelligence.</h3>
+      I like turning messy problems into useful software — from the first interface sketch to backend logic, data workflows and deployment.
+      <br/><br/>
+      My interests sit at the intersection of <b>full-stack engineering, AI/ML, computer vision and product development</b>.
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sauravzha/CelestialWatch">02 / Perihelion</a></h3>
-      <p>An astronomy web application for exploring comets and near-Earth asteroids, orbital data, close approaches, and 3D visualizations.</p>
-      <sub>Next.js · TypeScript · Python · Three.js</sub><br/>
-      <a href="https://celestial-watch.vercel.app/">Live application ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sauravzha/AI-Virtual-Mouse">03 / AI Virtual Mouse</a></h3>
-      <p>A webcam-based interface that maps hand landmarks and gestures to cursor movement, clicks, and scrolling.</p>
-      <sub>Python · OpenCV · MediaPipe · scikit-learn</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sauravzha/drowsiness-detection-system">04 / Driver Drowsiness Detection</a></h3>
-      <p>A browser-based prototype that combines eye-aspect ratio, head pose, and fatigue scoring to detect signs of driver drowsiness.</p>
-      <sub>JavaScript · MediaPipe · Computer Vision</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sauravzha/Startupreach">05 / StartupReach AI</a></h3>
-      <p>A lead-research workflow for discovering startups, analysing companies, enriching contacts, and preparing outreach.</p>
-      <sub>Next.js · FastAPI · Python · Gemini · SQLite</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sauravzha/Finance-Dashboard-UI">06 / Finance Dashboard</a></h3>
-      <p>A responsive finance dashboard interface for presenting balances, income, expenses, and financial trends.</p>
-      <sub>React · Tailwind CSS · UI Engineering</sub>
+    <td width="38%" valign="top">
+      <h2>02 / Current focus</h2>
+      <ul>
+        <li>Building real-world web products</li>
+        <li>Applying ML to practical workflows</li>
+        <li>Designing clear, maintainable systems</li>
+        <li>Learning through shipping and iteration</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-## Engineering toolbox
-
-<table>
-  <tr>
-    <td width="155"><strong>Languages</strong></td>
-    <td>Python · JavaScript · TypeScript · Java · C/C++ · SQL</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React · Next.js · Vite · HTML · CSS · Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Django · Flask · FastAPI · REST APIs</td>
-  </tr>
-  <tr>
-    <td><strong>AI / Data</strong></td>
-    <td>TensorFlow · Keras · scikit-learn · OpenCV · MediaPipe · Pandas · NumPy</td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>MySQL · MongoDB · PostgreSQL</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Git · GitHub · Linux · Docker · Streamlit</td>
-  </tr>
-</table>
-
-## How I think about engineering
-
-- **Start with the problem.** A feature is useful only when it solves a real user need.
-- **Prefer understandable systems.** Clear structure and documentation make software easier to maintain.
-- **Validate claims.** Model scores, performance improvements, and benchmarks should be reproducible.
-- **Ship, learn, refine.** A working product is the beginning of iteration, not the end.
-
-## Find me
+## 03 / Selected builds
 
 <div align="center">
-  <a href="https://myportfolio-1-sigma.vercel.app/"><strong>Portfolio</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/saurav-jha-555b8a211/"><strong>LinkedIn</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/sauravzha"><strong>GitHub</strong></a>
+  <table>
+    <tr>
+      <td width="50%" valign="top"><a href="https://github.com/sauravzha/Atithidevobhava"><img src="https://raw.githubusercontent.com/sauravzha/sauravzha/main/assets/project-atithi.svg" width="100%" alt="Atithi Devo Bhava — cultural technology platform"/></a></td>
+      <td width="50%" valign="top"><a href="https://github.com/sauravzha/CelestialWatch"><img src="https://raw.githubusercontent.com/sauravzha/sauravzha/main/assets/project-perihelion.svg" width="100%" alt="Perihelion — space data and orbital visualization"/></a></td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top"><a href="https://github.com/sauravzha/AI-Virtual-Mouse"><img src="https://raw.githubusercontent.com/sauravzha/sauravzha/main/assets/project-virtual-mouse.svg" width="100%" alt="AI Virtual Mouse — gesture-based computer interaction"/></a></td>
+      <td width="50%" valign="top"><a href="https://github.com/sauravzha/drowsiness-detection-system"><img src="https://raw.githubusercontent.com/sauravzha/sauravzha/main/assets/project-drowsiness.svg" width="100%" alt="Driver Drowsiness Detection — computer vision prototype"/></a></td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top"><a href="https://github.com/sauravzha/Startupreach"><img src="https://raw.githubusercontent.com/sauravzha/sauravzha/main/assets/project-startupreach.svg" width="100%" alt="StartupReach AI — AI-assisted startup research"/></a></td>
+      <td width="50%" valign="top"><a href="https://github.com/sauravzha/Finance-Dashboard-UI"><img src="https://raw.githubusercontent.com/sauravzha/sauravzha/main/assets/project-finance.svg" width="100%" alt="Finance Dashboard — interface engineering"/></a></td>
+    </tr>
+  </table>
 </div>
 
+## 04 / Engineering toolkit
+
+<table>
+  <tr><td><b>LANGUAGES</b></td><td>Python · JavaScript · TypeScript · Java · C/C++ · SQL</td></tr>
+  <tr><td><b>FRONTEND</b></td><td>React · Next.js · Vite · HTML · CSS · Tailwind CSS</td></tr>
+  <tr><td><b>BACKEND</b></td><td>Django · Flask · FastAPI · REST APIs</td></tr>
+  <tr><td><b>AI / VISION</b></td><td>TensorFlow · Keras · scikit-learn · OpenCV · MediaPipe</td></tr>
+  <tr><td><b>DATA</b></td><td>Pandas · NumPy · MySQL · MongoDB · PostgreSQL</td></tr>
+  <tr><td><b>TOOLS</b></td><td>Git · GitHub · Linux · Docker · Streamlit</td></tr>
+</table>
+
+## 05 / How I work
+
+```text
+UNDERSTAND  ->  DESIGN  ->  BUILD  ->  TEST  ->  SHIP  ->  ITERATE
+     |            |         |        |       |          |
+   Context      Clarity    Code   Evidence  Delivery  Learning
+```
+
+I value readable code, honest evaluation, useful documentation and engineering decisions that can be explained. I prefer a small feature that works well over a long list of claims that cannot be demonstrated.
+
+## 06 / Connect
+
 <div align="center">
-  <sub>Designed as a working portfolio — focused on projects, engineering choices, and things built.</sub>
+  <a href="https://myportfolio-1-sigma.vercel.app/"><b>Explore my portfolio</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/saurav-jha-555b8a211/"><b>Connect on LinkedIn</b></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:">GitHub messages welcome</a>
+  <br/><br/>
+  <sub>Independent builder · India · Always learning by making</sub>
 </div>
