@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="230" viewBox="0 0 640 230" role="img" aria-labelledby="title">
+<title id="title">STARTUPREACH AI</title>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1220"/><stop offset="1" stop-color="#111B2B"/></linearGradient><pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#91A9C2" stroke-opacity=".055"/></pattern></defs>
+<rect width="640" height="230" rx="16" fill="url(#b)"/><rect width="640" height="230" rx="16" fill="url(#g)"/>
+<path d="M0 0H7V230H0Z" fill="#8DE0A5"/><path d="M366 0V230" stroke="#8AA2BA" stroke-opacity=".13"/>
+<text x="32" y="42" fill="#8DE0A5" font-family="monospace" font-size="12" letter-spacing="2">05 / AI-ASSISTED WORKFLOWS</text>
+<text x="32" y="94" fill="#F1F5FA" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">STARTUPREACH AI</text>
+<text x="32" y="128" fill="#B4C3D3" font-family="Arial,Helvetica,sans-serif" font-size="15">Discovering startups, researching leads and preparing outreach.</text>
+<text x="32" y="188" fill="#8DA3BA" font-family="monospace" font-size="11" letter-spacing=".8">NEXT.JS  ·  FASTAPI  ·  GEMINI</text>
+<g transform="translate(0 0)"><g fill="none" stroke="#8DE0A5" stroke-width="1.5"><path d="M405 178L447 137L479 153L531 90L573 60"/><path d="M405 178H575M405 178V52" stroke-opacity=".28"/></g><g fill="#10261F" stroke="#8DE0A5" stroke-width="1.5"><circle cx="405" cy="178" r="5"/><circle cx="447" cy="137" r="5"/><circle cx="479" cy="153" r="5"/><circle cx="531" cy="90" r="5"/><circle cx="573" cy="60" r="5"/></g><path d="M540 60h33v33" fill="none" stroke="#8DE0A5" stroke-width="1.5"/></g>
+<circle cx="608" cy="28" r="3" fill="#8DE0A5"/>
+</svg>
