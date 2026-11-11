@@ -77,8 +77,7 @@ I value readable code, honest evaluation, useful documentation and engineering d
   <a href="https://myportfolio-1-sigma.vercel.app/"><b>Explore my portfolio</b></a>
   &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/saurav-jha-555b8a211/"><b>Connect on LinkedIn</b></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:">GitHub messages welcome</a>
+
   <br/><br/>
   <sub>Independent builder · India · Always learning by making</sub>
 </div>
